@@ -3,8 +3,8 @@ import numpy as np
 import re
 
 d = {'_id': [1, 2, 3, 4, 5, 6, 7],
-     'column1': ['FullName', 'custfullnm', 'nm123', 'sitenm', 'full12', 'suplnm', 'countryfull'],
-     'column2': ['', '', '', '', '', '', '']}
+'column1': ['FullName', 'custfullnm', 'nm123', 'sitenm', 'full12', 'suplnm', 'countryfull'],
+'column2': ['', '', '', '', '', '', '']}
 df = pd.DataFrame(data=d)
 
 key_words = ["full", "nm", "name", "txt", "[0-9]"]

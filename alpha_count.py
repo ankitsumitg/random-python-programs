@@ -5,7 +5,7 @@ Sort in descending order of occurrence count.
 If the occurrence count is the same, sort the characters in alphabetical order.
 For example, according to the conditions described above,
 
- would have it's logo with the letters .
+would have it's logo with the letters .
 
 Input Format
 
